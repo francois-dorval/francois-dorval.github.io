@@ -50,6 +50,7 @@ div {
 
 .stuff {
   display: inline-block;
+  color:blue;
   margin-top: 6px;
   margin-left: 55px;
   width: 75%;
